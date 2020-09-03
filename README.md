@@ -1,0 +1,2 @@
+# Nlscript
+A script language
